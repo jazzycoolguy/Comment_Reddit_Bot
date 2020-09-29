@@ -13,7 +13,7 @@ pip install praw
 Clone repository.
 
 ```bash
-git clone ...
+git clone https://github.com/jazzycoolguy/Comment_Reddit_Bot
 ```
 
 ## Usage
